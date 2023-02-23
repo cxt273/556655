@@ -1,10 +1,9 @@
-# alist-replit
+
 
 The fastest way to deploy the alist to `repl.it` is to click the `run on repl.it` button below.
 
-<a href="https://repl.it/github/alist-org/alist-replit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
-</a>
+<a href="httg alt="Run on Repl.it" src="https://repl.it/badge/github/alist-org/alist-replit" style="height: 40px; width: 190px;" />
+</a
 
 ## Database
 You may need to use another remote MySQL/Postgres database as local sqlite3 is public for everyone. Some Free MySQL/Postgres Databases:
@@ -38,10 +37,9 @@ How to change the database?
 > ```json
 > {
 >   "DB_TYPE": "postgres",
->   "DB_HOST": "db.bit.io",
->   "DB_PORT": "5432",
+>   "DB_HOST": "db.bit."5432",
 >   "DB_USER": "user",
->   "DB_PASS": "password",
+>   "DB_PASS": "password"
 >   "DB_NAME": "user/alist",
 >   "DB_TABLE_PREFIX": "alist_",
 >   "DB_SSL_MODE": "require"
@@ -49,4 +47,4 @@ How to change the database?
 > ```
 
 ## Password
-The initial password is randomly generated, and you can get it by checking the console logs.
+The initial password is randomly generated, and you can get it by checking the console l
